@@ -1,6 +1,6 @@
 {
   "name": "@panter/plop",
-  "version": "2.0.1-rc.0",
+  "version": "2.0.1-rc.1",
   "description":
     "Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity",
   "main": "./src/plop.js",
@@ -33,8 +33,7 @@
     "interpret": "^1.0.0",
     "liftoff": "^2.2.0",
     "minimist": "^1.2.0",
-    "node-plop":
-      "https://github.com/panter/node-plop.git#76de3a32286616a6b1ee83e28a8b40ddb5500eb9",
+    "@panter/node-plop": "0.13.1",
     "v8flags": "^2.0.10"
   },
   "engines": {

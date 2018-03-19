@@ -9,7 +9,7 @@ const v8flags = require('v8flags');
 const interpret = require('interpret');
 const chalk = require('chalk');
 
-const nodePlop = require('node-plop');
+const nodePlop = require('@panter/node-plop');
 const out = require('./console-out');
 const globalPkg = require('../package.json');
 

@@ -1,7 +1,7 @@
 'use strict';
 
 const chalk = require('chalk');
-const nodePlop = require('node-plop');
+const nodePlop = require('@panter/node-plop');
 const fs = require('fs');
 
 const defaultChoosingMessage =
